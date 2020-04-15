@@ -5,6 +5,7 @@
 
 # all logs
 *.log
+!requests.log
 
 # vscode/settings
 /.vscode/*

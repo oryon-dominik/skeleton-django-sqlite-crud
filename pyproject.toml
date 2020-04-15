@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "skeleton-django-sqlite-minmal"
+name = "skeleton-django-sqlite-crud"
 version = "0.1.0"
-description = "providing a basic django structure to start of your projects"
+description = "providing a basic django structure to start your projects with a simple CRUD app"
 authors = ["oryon-dominik <oryon@cyberise.de>"]
 
 [tool.poetry.dependencies]

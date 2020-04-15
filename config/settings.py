@@ -50,6 +50,7 @@ SECRET_KEY = env(
 LOCAL_APPS = [
     # custom apps
     "apps.users.apps.UsersConfig",
+    "apps.things.apps.ThingsConfig",
 ]
 
 DJANGO_APPS = [
