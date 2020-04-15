@@ -14,7 +14,7 @@
 		"python.venvPath": "~/Envs",
 		"python.envFile": "${workspaceFolder}/.env",
 		"python.terminal.activateEnvironment": true,
-		"python.pythonPath": "C:\\Users\\oryon\\Envs\\skeleton-django-sqlite-minmal-LE1dBSj5-py3.8\\Scripts\\python.exe",
+		"python.pythonPath": "C:\\Users\\oryon\\Envs\\skeleton-django-sqlite-crud-2_psTHjl-py3.8\\Scripts",
 		"python.formatting.provider": "black",
 		"python.venvFolders": ["C:\\Users\\oryon\\Envs\\"],
 		"python.dataScience.jupyterServerURI": "http://localhost:8890/"
